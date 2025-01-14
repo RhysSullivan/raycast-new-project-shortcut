@@ -19,8 +19,7 @@ A Raycast script that quickly scaffolds a new Next.js project from a template wi
 
 1. Clone the repository to home directory `cd ~ && git clone https://github.com/RhysSullivan/raycast-new-project-shortcut.git`
 2. Add a raycast script command directory of your home directory
-   <!-- image of https://utfs.io/f/tzecRIhy9iIEr8HMvPwbYMRCIf6gBJLb1n4lD8kFHuxw3pOm -->
-   ![image](https://utfs.io/f/tzecRIhy9iIEr8HMvPwbYMRCIf6gBJLb1n4lD8kFHuxw3pOm)
+   ![image](https://trhvmfwkvd.ufs.sh/f/tzecRIhy9iIErlaKX2bYMRCIf6gBJLb1n4lD8kFHuxw3pOmz)
 
 ## Usage
 
